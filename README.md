@@ -77,3 +77,14 @@ pytest tests/
 ```bash
 streamlit run app/main.py
 ```
+
+
+https://github.com/user-attachments/assets/d9ebdde3-1c83-4f5a-b498-63ed882c99ba
+
+
+
+
+
+
+
+
